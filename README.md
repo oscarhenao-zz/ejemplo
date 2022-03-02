@@ -7,3 +7,4 @@
 ## Propósito
 
 - Usar Git para nuestros proyectos personales
+- Aprender a hacer pull requests
